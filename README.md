@@ -27,24 +27,6 @@ This project demonstrates manual testing practices for a web-based learning plat
 
 ---
 
-## 📁 Project Structure
-
-learningcell-qa-manual-testing/
-│
-├── test_plan/
-│ └── test_plan.md
-│
-├── test_cases/
-│ └── test_cases.xlsx
-│
-├── bug_reports/
-│ └── bug_report_samples.md
-│
-└── README.md
-
-
----
-
 ## ✨ Key Contributions
 
 - Collaborated within Agile/Scrum teams to support end-to-end testing, improving communication efficiency and ensuring timely delivery  

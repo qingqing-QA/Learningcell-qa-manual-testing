@@ -34,7 +34,6 @@ This test plan outlines the strategy, scope, resources, and schedule for testing
 - Functional Testing  
 - UI Testing  
 - Regression Testing  
-- Smoke Testing  
 
 ---
 
@@ -47,78 +46,7 @@ This test plan outlines the strategy, scope, resources, and schedule for testing
 
 ---
 
-## 6. Test Environment
 
-| Item        | Details                  |
-|------------|--------------------------|
-| Browser    | Chrome, Edge             |
-| OS         | Windows                  |
-| Environment| QA / Staging             |
-| Tools      | Excel, Jira (or similar) |
 
----
 
-## 7. Test Deliverables
 
-- Test Plan  
-- Test Cases  
-- Bug Reports  
-- Test Execution Report  
-
----
-
-## 8. Entry Criteria
-
-- Requirements are defined and approved  
-- Test environment is ready  
-- Build is deployed successfully  
-
----
-
-## 9. Exit Criteria
-
-- All critical test cases executed  
-- No high-severity defects remain open  
-- Test coverage meets defined goals  
-
----
-
-## 10. Defect Management
-
-- All defects are logged with severity and priority  
-- Defects are tracked until closure  
-- Retesting is performed after fixes  
-
----
-
-## 11. Risks & Mitigation
-
-| Risk | Mitigation |
-|------|-----------|
-| Unclear requirements | Clarify with stakeholders |
-| Environment instability | Coordinate with DevOps |
-| Time constraints | Prioritize critical tests |
-
----
-
-## 12. Schedule
-
-- Test Planning: Sprint Start  
-- Test Design: Sprint Planning Phase  
-- Test Execution: During Sprint  
-- Regression Testing: Before Release  
-
----
-
-## 13. Roles & Responsibilities
-
-| Role | Responsibility |
-|------|---------------|
-| QA Engineer | Test design, execution, defect reporting |
-| Developer | Bug fixing |
-| Product Owner | Requirement clarification |
-
----
-
-## 14. Conclusion
-This test plan ensures a structured approach to validate the LearningCell web application, improving product quality and reducing risks before release.

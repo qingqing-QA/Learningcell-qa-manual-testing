@@ -42,6 +42,6 @@ This project demonstrates manual testing practices for a web-based learning plat
 - Bug Tracking  
 - Agile / Scrum  
 
----
+
 
 

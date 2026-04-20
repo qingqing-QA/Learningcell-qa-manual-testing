@@ -1,47 +1,22 @@
-# 📚 LearningCell Web Application QA Testing
+# LearningCell QA Manual Testing Project
 
-## 🚀 Overview
-This project demonstrates manual testing practices for a web-based learning platform developed by an external vendor. The testing process follows Agile/Scrum methodology and focuses on ensuring product quality through structured test design and execution.
+This project demonstrates a manual QA testing workflow for a web-based learning platform.
 
----
+## Scope
+- Functional testing of user workflows
+- Test case design based on real scenarios
+- Defect reporting and tracking
 
-## 🎯 Objectives
-- Validate core functionalities of the learning platform
-- Ensure system stability before release
-- Improve test coverage and defect detection efficiency
+## Testing Activities
+- Designed test cases for login, course browsing, and enrollment
+- Performed regression testing after system updates
+- Identified and documented defects with clear reproduction steps
 
----
+## Tools & Methodology
+- Agile/Scrum workflow
+- Test case documentation (Excel)
+- Bug tracking (Jira-style)
 
-## 🧠 Testing Scope
-- UI Testing
-- Functional Testing
-- Regression Testing
-- Test Case Design & Execution
-
----
-
-## 🔧 Methodology
-- Agile / Scrum testing process  
-- Sprint-based test planning and execution  
-- Continuous collaboration with cross-functional teams  
-
----
-
-## ✨ Key Contributions
-
-- Collaborated within Agile/Scrum teams to support end-to-end testing, improving communication efficiency and ensuring timely delivery  
-- Designed test plans and developed comprehensive test cases, increasing test coverage across key functional modules  
-- Performed UI and functional testing to validate core features and identify critical defects before release  
-- Executed test cases and reported defects, contributing to improved product stability and reduced post-release issues  
-
----
-
-## 🛠 Tools & Skills
-- Manual Testing  
-- Test Case Design  
-- Bug Tracking  
-- Agile / Scrum  
-
-
-
-
+## Outcome
+- Improved test coverage for key workflows
+- Ensured system reliability and user experience
